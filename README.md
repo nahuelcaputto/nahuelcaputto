@@ -1,20 +1,20 @@
 ### Hi, I'm <a href="https://www.linkedin.com/in/nahuel-caputto/">Nahuel Caputto</a>! 👋
 ## Technologies :fire🔥🔥:
-- React
-- React Native.
-- Redux
-- JS ES6
-- HTML
-- CSS
-- Bootstrap.
-- Node
-- Express
-- Sequelize
-- Moleculer.
-- MySQL
-- PostgreSQL
-- MSSQL
-- Genexus
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "React Native"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express", "Sequelize", "Moleculer"],
+      },
+      databases: ["MySQL", "SQLServer", "PostgreSQL"],
+   },
+   currentOccupation: ["Student, open for job opportunities"],
+};
 
 This is my last project: https://astridtoys.herokuapp.com/
 
