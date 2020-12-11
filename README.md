@@ -1,5 +1,5 @@
-### Hi, I'm <a href="https://www.linkedin.com/in/nahuel-caputto/">Nahuel Caputto</a>! 👋
-## Technologies :fire🔥🔥:
+## Hi, I'm <a href="https://www.linkedin.com/in/nahuel-caputto/">Nahuel Caputto</a>! 👋
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -17,7 +17,7 @@ const aboutMe = {
    currentOccupation: ["Student, open for job opportunities"],
 };
 ```
-This is my last project: https://astridtoys.herokuapp.com/
+### This is my last project: https://astridtoys.herokuapp.com/
 
 [![Nahuel's github stats](https://github-readme-stats.vercel.app/api?username=nahuelcaputto)](https://github.com/anuraghazra/github-readme-stats)
 
