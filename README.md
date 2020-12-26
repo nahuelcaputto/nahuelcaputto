@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, HTML, CSS, Genexus],
    technologies: {
       frontEnd: {
          js: ["React", "React Native", "Redux"],
