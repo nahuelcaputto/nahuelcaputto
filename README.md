@@ -6,15 +6,15 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Genexus],
    technologies: {
       frontEnd: {
-         js: ["React", "React Native", "Redux"],
-         css: ["Bootstrap"]
+         js: ["React", "React Native", "Redux", "Typescript"],
+         css: ["Bootstrap","TailwindCss"]
       },
       backEnd: {
          js: ["Node", "Express", "Sequelize", "Moleculer"],
       },
       databases: ["MySQL", "SQLServer", "PostgreSQL"],
    },
-   currentOccupation: ["Student, open for job opportunities"],
+   currentOccupation: ["Frontend Ssr Developer"],
 };
 ```
 ### This is my last project: https://astridtoys.herokuapp.com/
