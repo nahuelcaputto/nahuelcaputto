@@ -14,7 +14,7 @@ const aboutMe = {
       },
       databases: ["MySQL", "SQLServer", "PostgreSQL"],
    },
-   currentOccupation: ["Frontend Ssr Developer"],
+   currentOccupation: ["Frontend Developer"],
 };
 ```
 ### This is my last project: https://astridtoys.herokuapp.com/
