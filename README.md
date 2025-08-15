@@ -2,22 +2,11 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Genexus],
-   technologies: {
-      frontEnd: {
-         js: ["React", "React Native", "Redux", "Typescript"],
-         css: ["Bootstrap","TailwindCss"]
-      },
-      backEnd: {
-         js: ["Node", "Express", "Sequelize", "Moleculer"],
-      },
-      databases: ["MySQL", "SQLServer", "PostgreSQL"],
-   },
-   currentOccupation: ["Frontend Developer"],
+   code: [React, React Native, Typescript, TailwindCSS, HTML, CSS, Genexus],
+   currentOccupation: ["Frontend Ssr Developer"],
 };
 ```
-### This is my last project: https://astridtoys.herokuapp.com/
+### This is my last project: https://www.chordal.com/
 
 [![Nahuel's github stats](https://github-readme-stats.vercel.app/api?username=nahuelcaputto)](https://github.com/anuraghazra/github-readme-stats)
 
